@@ -8,7 +8,7 @@ Node version: `10.17.0`
 
 ## Deployment
 
-This is a manual deploy from your local machine using Surge. Nothing fancy.
+This is a manual deploy from your local machine using [Surge](surge.sh). Nothing fancy.
 
 - `npm install -g surge`
 - `npm run build` OR `yarn build`
