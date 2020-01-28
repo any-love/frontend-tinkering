@@ -1,3 +1,24 @@
+# Any Love
+
+This is just trying out some frontend concept stuff for signup.
+
+## Setup
+
+Node version: `10.17.0`
+
+## Deployment
+
+This is a manual deploy from your local machine using Surge. Nothing fancy.
+
+`npm install -g surge`
+`npm run build` OR `yarn build`
+`cd build`
+`surge` - and follow the prompts.
+
+You can use `any-love.surge.sh` as the "prod" domain for now, or use a generated one for a one-ff to try something out and share.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
