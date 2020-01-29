@@ -21,7 +21,7 @@ class ExampleApp extends React.Component {
   this.setState({ checked: event.target.checked })
   render() {
     return (
-      <div>
+      <div className="wholeSection">
         <div>
           <h2>Select Which Apply To You</h2>
           <label className="option">

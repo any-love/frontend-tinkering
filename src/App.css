@@ -40,3 +40,7 @@
 .option {
   display: block;
 }
+
+.wholeSection {
+  margin-bottom: 100px;
+}
