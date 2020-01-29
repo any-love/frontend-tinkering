@@ -206,35 +206,7 @@ class ExampleApp extends React.Component {
             checked={this.state.checked}
             onChange={this.handleCheckboxChange}
             />
-            <span>Non-Binary</span>
-          </label>
-          <label className="option">
-            <Checkbox
-            checked={this.state.checked}
-            onChange={this.handleCheckboxChange}
-            />
-            <span>Transgender</span>
-          </label>
-          <label className="option">
-            <Checkbox
-            checked={this.state.checked}
-            onChange={this.handleCheckboxChange}
-            />
-            <span>Agender</span>
-          </label>
-          <label className="option">
-            <Checkbox
-            checked={this.state.checked}
-            onChange={this.handleCheckboxChange}
-            />
-            <span>Two-Spirit</span>
-          </label>
-          <label className="option">
-            <Checkbox
-            checked={this.state.checked}
-            onChange={this.handleCheckboxChange}
-            />
-            <span>Gender-Non-Conforming</span>
+            <span>Straight</span>
           </label>
         </div>
       </div>
