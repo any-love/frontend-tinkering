@@ -118,6 +118,20 @@ class ExampleApp extends React.Component {
             />
             <span>Sapphic</span>
           </label>
+          <label className="option">
+            <Checkbox
+            checked={this.state.checked}
+            onChange={this.handleCheckboxChange}
+            />
+            <span>Asexual</span>
+          </label>
+          <label className="option">
+            <Checkbox
+            checked={this.state.checked}
+            onChange={this.handleCheckboxChange}
+            />
+            <span>Aromantic</span>
+          </label>
         </div>
         <div>
           <h2>Select Which You're Looking for</h2>
